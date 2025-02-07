@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 胡静远
+title: 胡靜遠
 
 # Name pronunciation (optional)
 name_pronunciation: Jingyuan Hu
@@ -169,4 +169,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the Decisions, Operations & Technology Management (DOTM) area at the University of California, Los Angeles, where I am fortunate to be advised by Professor Fernanda Bravo and Professor Elisa Long. My research focuses on ‘implementable’ data-driven decision-making in the public sector, leveraging tools from econometrics, optimization, and machine learning to bridge the gap between theoretical models and real-world applications:
+
+For policymakers, this involves designing actionable policies — leveraging predictive and structural models to understand choices and dynamics, and using prescriptive models to create efficient solutions that account for endogenous decisions.
+
+For individual decision-makers, this focuses on addressing key aspects of implementability — such as interpretability and fairness — and exploring how to design effective models that align with these dimensions from a modeling perspective.
