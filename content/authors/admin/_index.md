@@ -54,11 +54,11 @@ education:
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Data-driven Analytics in Public Health: Interpretable and Equitable Approaches
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Mathematics, Computer Science
+  - area: BSc Mathematics
     institution: University of British Columbia
     date_start: 2015-09-01
     date_end: 2019-05-31
