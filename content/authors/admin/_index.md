@@ -82,20 +82,9 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
+I am a Ph.D. candidate in the Decisions, Operations & Technology Management (DOTM) area at the University of California, Los Angeles, where I am fortunate to be advised by Professor Fernanda Bravo and Professor Elisa Long. My research focuses on ‘implementable’ data-driven decision-making in the public sector, leveraging tools from econometrics, optimization, and machine learning to bridge the gap between theoretical models and real-world applications.
 
-I am a Ph.D. candidate in the Decisions, Operations & Technology Management (DOTM) area at the University of California, Los Angeles, where I am fortunate to be advised by Professor Fernanda Bravo and Professor Elisa Long. My research focuses on ‘implementable’ data-driven decision-making in the public sector, leveraging tools from econometrics, optimization, and machine learning to bridge the gap between theoretical models and real-world applications:
 
-For policymakers, this involves designing actionable policies — leveraging predictive and structural models to understand choices and dynamics, and using prescriptive models to create efficient solutions that account for endogenous decisions.
-
-For individual decision-makers, this focuses on addressing key aspects of implementability — such as interpretability and fairness — and exploring how to design effective models that align with these dimensions from a modeling perspective.
