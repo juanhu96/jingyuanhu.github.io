@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jingyuan Hu
+title: Jingyuan Hu 胡靜遠
 
 # Name pronunciation (optional)
-name_pronunciation: (胡靜遠)
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Jingyuan

@@ -46,7 +46,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       view: article-grid
@@ -57,20 +57,10 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - research
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   - block: collection
     id: news
     content:

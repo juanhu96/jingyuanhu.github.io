@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Managment Science, 1*(1)"
+publication: "*, 1*(1)"
 publication_short: ""
 
 abstract: Geographic inequalities in access to essential health services are well-documented, extending beyond rural-urban divides to include socioeconomic, racial, and other disparities. Proximity to hospitals, clinics, healthcare providers, and pharmacies varies widely, posing a challenge in deciding where to strategically locate such facilities. Demand for each service depends on local population health, individual preferences, provider capacity, and other factors. This study introduces a novel estimate-then-optimize framework, combining structural demand estimation using the Berry-Levinsohn-Pakes (BLP) approach with a choice-based optimal facility location model to maximize health service utilization. An advantage of this empirical approach is its reliance on aggregate data rather than individual outcomes. 
