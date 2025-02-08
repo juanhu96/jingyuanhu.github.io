@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingyuan Hu 胡靜遠
+title: Jingyuan Hu
 
 # Name pronunciation (optional)
 name_pronunciation: 
