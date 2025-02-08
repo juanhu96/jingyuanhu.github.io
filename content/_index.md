@@ -55,16 +55,16 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - research
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - research
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: collection
     id: news
     content:
