@@ -1,7 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Closer to Home: An Estimate-then-Optimize Approach to Improve Access to Healthcare Services"
 authors:
 - admin
+- Fernanda Bravo
+- Ashvin Gandhi
+- Elisa Long
 date: "2019-04-07T00:00:00Z"
 doi: ""
 

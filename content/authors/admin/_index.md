@@ -3,7 +3,7 @@
 title: Jingyuan Hu
 
 # Name pronunciation (optional)
-name_pronunciation: (Jeeng-ywen Who 胡靜遠)
+name_pronunciation: (胡靜遠)
 
 # Full name (for SEO)
 first_name: Jingyuan
@@ -40,7 +40,6 @@ interests:
   - Healthcare Operations
   - Policy Design
   - Public Sector Analysis
-  - Explainable/Interpretable AI (XAI)
   - Econometrics
   - Machine Learning
 
@@ -66,9 +65,9 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Finalist, INFORMS Pierskalla Best Paper Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: 2024
     awarder: Coursera
     icon: coursera
     summary: |

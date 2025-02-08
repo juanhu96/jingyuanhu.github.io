@@ -1,9 +1,13 @@
 ---
-title: "An example journal article"
+title: "Closer to Home: An Estimate-then-Optimize Approach to Improve Access to Healthcare Services"
 authors:
 - admin
-- Robert Ford
+- Fernanda Bravo
+- Ashvin Gandhi
+- Elisa Long
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
@@ -18,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Managment Science, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Geographic inequalities in access to essential health services are well-documented, extending beyond rural-urban divides to include socioeconomic, racial, and other disparities. Proximity to hospitals, clinics, healthcare providers, and pharmacies varies widely, posing a challenge in deciding where to strategically locate such facilities. Demand for each service depends on local population health, individual preferences, provider capacity, and other factors. This study introduces a novel estimate-then-optimize framework, combining structural demand estimation using the Berry-Levinsohn-Pakes (BLP) approach with a choice-based optimal facility location model to maximize health service utilization. An advantage of this empirical approach is its reliance on aggregate data rather than individual outcomes. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008669
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
