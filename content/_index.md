@@ -30,41 +30,35 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research focuses on ‘implementable’ data-driven decision-making in the public sector, leveraging tools from econometrics, optimization, and machine learning to bridge the gap between theoretical models and real-world applications. 
-        
-        For policymakers, this involves designing actionable policies — leveraging predictive and structural models to understand choices and dynamics, and using prescriptive models to create efficient solutions that account for endogenous decisions.
-
-        For individual decision-makers, this focuses on addressing key aspects of implementability — such as interpretability and fairness — and exploring how to design effective models that align with these dimensions from a modeling perspective.
-
-        Always open to collaboration, feel free to reach out! 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - research
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  # - block: collection
+  # - block: markdown
   #   content:
-  #     title: Recent Publications
-  #     text: ""
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #        😃
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
   #     filters:
   #       folders:
   #         - research
-  #       exclude_featured: false
+  #       featured_only: true
   #   design:
-  #     view: citation
+  #     view: article-grid
+  #     columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - research
+        exclude_featured: false
+    design:
+      view: citation
   - block: collection
     id: news
     content:
@@ -74,7 +68,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         author: ""
