@@ -85,7 +85,7 @@ awards:
 ---
 
 ## About Me
-I am a Ph.D. candidate in the Decisions, Operations & Technology Management (DOTM) area at the University of California, Los Angeles, where I am fortunate to be advised by Professor Fernanda Bravo and Professor Elisa Long. My research focuses on ‘implementable’ data-driven decision-making in the public sector, leveraging tools from econometrics, optimization, and machine learning to bridge the gap between theoretical models and real-world applications.        
+I am a Ph.D. candidate in the [Decisions, Operations & Technology Management (DOTM)](https://www.anderson.ucla.edu/faculty-and-research/decisions-operations-and-technology-management) area at the University of California, Los Angeles, where I am fortunate to be advised by Professor [Fernanda Bravo](https://sites.google.com/view/fernandabravoresearch/home?authuser=0) and Professor [Elisa Long](http://www.elisalong.com/). My research focuses on ‘implementable’ data-driven decision-making in the public sector, leveraging tools from econometrics, optimization, and machine learning to bridge the gap between theoretical models and real-world applications.        
 - For policymakers, this involves designing actionable policies — leveraging predictive and structural models to understand choices and dynamics, and using prescriptive models to create efficient solutions that account for endogenous decisions.
 - For individual decision-makers, this focuses on addressing key aspects of implementability — such as interpretability and fairness — and exploring how to design effective models that align with these dimensions from a modeling perspective.
 
