@@ -3,14 +3,14 @@ title: "Awards & Talks"
 date: 2024-02-07
 type: landing
 
-design:
-  max_width: "1200px"  # Increases content width (adjust as needed)
-  padding: ["0rem", "1rem", "0rem", "1rem"]  # Less padding on the sides
 # design:
 #   spacing: "5rem"
 
 sections:
   - block: markdown
+    design:
+      max_width: "1200px"  # Increases content width (adjust as needed)
+      padding: ["0rem", "1rem", "0rem", "1rem"]  # Less padding on the sides
     content:
       title: Awards & Honors
       subtitle: ""
@@ -25,6 +25,9 @@ sections:
         - Trek Excellence Scholarship, UBC, 2015-2019
         - Reginald Palliser-Wilson Scholarship, UBC, 2017
   - block: markdown
+    design:
+      max_width: "1200px"  # Increases content width (adjust as needed)
+      padding: ["0rem", "1rem", "0rem", "1rem"]  # Less padding on the sides
     content:
       title: "Talks"
       subtitle: ""
