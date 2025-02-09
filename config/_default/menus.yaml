@@ -13,6 +13,6 @@ main:
   - name: Awards & Talks
     url: /awards_talks/
     weight: 12
-  # - name: Teaching & Services
-  #   url: teaching_services/
-  #   weight: 20
+  - name: Teaching & Services
+    url: teaching_services/
+    weight: 20
