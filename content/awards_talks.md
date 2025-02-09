@@ -5,7 +5,7 @@ type: landing  # This makes it a landing page
 url: "/awards_talks/"
 
 design:
-  spacing: "2rem"
+  spacing: "5rem"
 
 sections:
   - block: markdown
