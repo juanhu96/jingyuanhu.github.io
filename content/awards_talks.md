@@ -5,7 +5,7 @@ type: landing  # This makes it a landing page
 url: "/awards_talks/"
 
 design:
-  spacing: "2rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-awards
@@ -53,6 +53,6 @@ sections:
         - INFORMS Annual Conference, Seattle, WA, Oct 2024  
         - POMS Annual Meeting, Atlanta, GA, May 2025  
     design:
-      columns: "2"
+      columns: "1"
 
 ---
