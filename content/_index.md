@@ -34,8 +34,7 @@ sections:
   #   content:
   #     title: '📚 My Research'
   #     subtitle: ''
-  #     text: |-
-  #        😃
+  #     text: sss😃
   #   design:
   #     columns: '1'
   # - block: collection
