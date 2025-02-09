@@ -1,7 +1,8 @@
 ---
-title: Award & Talks & Diff
+title: Award & Talks
 cms_exclude: true
-url: awards_talks_diff
+url: "/awards_talks/"
+layout: "single" # Ensure this matches your site's page layout
 
 # View
 view: card
