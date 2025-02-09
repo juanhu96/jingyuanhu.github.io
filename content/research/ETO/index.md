@@ -31,18 +31,17 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008669
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008669
 url_code: 'https://github.com/ashdgandhi/VaxDemandDistance'
-url_podcast: '#'
+- name: 10min AI-generated podcast 
+  url: https://notebooklm.google.com/notebook/32e0aaa5-e9de-4067-b526-bbb3fcaabcce/audio
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/man-wearing-white-dress-shirt-vt7iAyiwpf0)' 
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/man-wearing-white-dress-shirt-vt7iAyiwpf0)' 
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
