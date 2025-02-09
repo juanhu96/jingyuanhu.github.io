@@ -33,8 +33,8 @@ featured: true
 links:
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4008669'
 url_code: 'https://github.com/ashdgandhi/VaxDemandDistance'
-- name: 10min AI-generated podcast 
-  url: 'https://notebooklm.google.com/notebook/32e0aaa5-e9de-4067-b526-bbb3fcaabcce/audio'
+# - name: 10min AI-generated podcast 
+#   url: 'https://notebooklm.google.com/notebook/32e0aaa5-e9de-4067-b526-bbb3fcaabcce/audio'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
