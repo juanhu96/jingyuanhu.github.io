@@ -5,11 +5,29 @@ hide_date: true
 reading_time: false
 ---
 
-The idea of a Uses page is to tell you about the stuff I use.
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
+<!-- Academic Job Market Advices
+I read their advice religiously throughout my search and am incredibly grateful for the invaluable guidance they provided:
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+Nikhil Garg 
+
+Renyu Zhang 
+
+Ian Zhu
+
+I’ve written up my own job market reflections and advice, which I’m happy to share privately if you’re interested!
+
+Useful Resources
+Applied Causal Inference Powered by ML and AI
+
+A Comprehensive Course on DiD
+
+Interpretable Machine Learning
+
+Notes 
+Notes on BLP
+
+More coming soon... -->
 
 ## Website
 

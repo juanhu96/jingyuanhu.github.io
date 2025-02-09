@@ -8,10 +8,9 @@ design:
   spacing: "5rem"
 
 sections:
-  - block: markdown
+  - block: resume-awards
     content:
-      title: "Awards & Honors"
-      subtitle: ""
+      title: Awards & Honors
       text:
         - Finalist, INFORMS Pierskalla Best Paper Award, 2024
         - Dissertation Year Fellowship, UCLA, 2024
@@ -22,9 +21,6 @@ sections:
         - International Student Scholarship, UBC, 2015-2019
         - Trek Excellence Scholarship, UBC, 2015-2019
         - Reginald Palliser-Wilson Scholarship, UBC, 2017
-    design:
-      columns: "1"
-
   - block: markdown
     content:
       title: "Talks"
