@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: twin-peaks.svg # stacked-peaks.svg
           filters:
-            brightness: 0.25
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
