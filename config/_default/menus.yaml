@@ -10,11 +10,8 @@ main:
   - name: Research
     url: research/
     weight: 11
-  # - name: Awards & Talks
-  #   url: awards_talks/
-  #   weight: 12
   - name: Awards & Talks
-    url: /awards_talks/
+    url: awards_talks/
     weight: 12
   - name: Teaching & Services
     url: teaching_services/

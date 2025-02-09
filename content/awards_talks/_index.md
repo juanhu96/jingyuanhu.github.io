@@ -1,19 +1,19 @@
 ---
 title: Award & Talks
-date: 2025-10-24
-type: landing
-menu:
-  main:
-    weight: 12
-url: "/awards_talks/"
+cms_exclude: true
+url: awards_talks
 
+# View
+view: card
 
-design:
-  spacing: '5rem'
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: ''
+  filename: ''
 
 
 # Content
-Awards and Honors:
+awards_and_honors:
   - Finalist, INFORMS Pierskalla Best Paper Award, 2024
   - Dissertation Year Fellowship, UCLA, 2024
   - Anderson Ph.D. Fellowship, UCLA, 2019-2023
@@ -25,7 +25,7 @@ Awards and Honors:
   - Reginald Palliser-Wilson Scholarship, UBC, 2017
 
 
-Talks:
+talks:
   - title: "Closer to Home: An Estimate-then-Optimize Approach for Improving Access to Healthcare Services"
     formerly_titled: "Closer to Home: Partnering to Distribute Vaccinations under Spatially Heterogeneous Demand"
     events:
