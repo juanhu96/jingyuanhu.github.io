@@ -1,5 +1,5 @@
 ---
-title: Award & Talks
+title: Award & Talks & Different
 cms_exclude: true
 #url: talk
 
