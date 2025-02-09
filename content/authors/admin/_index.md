@@ -72,10 +72,10 @@ awards:
     date: 2024
     awarder: UCLA
   - title: Anderson Ph.D. Fellowship
-    date: 2019 - 2023
+    date: 2019
     awarder: UCLA
   - title: Trek Excellence Scholarship
-    date: 2015 - 2019
+    date: 2015
     awarder: UBC
   # - title: Finalist, INFORMS Pierskalla Best Paper Award
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
