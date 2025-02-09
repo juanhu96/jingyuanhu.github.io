@@ -8,7 +8,7 @@ design:
   spacing: "5rem"
 
 sections:
-  - block: collection
+  - block: resume-awards
     content:
       title: "Awards & Honors"
       items:
@@ -22,7 +22,7 @@ sections:
         - "Trek Excellence Scholarship, UBC, 2015-2019"
         - "Reginald Palliser-Wilson Scholarship, UBC, 2017"
 
-  - block: collection
+  - block: markdown
     content:
       title: "Talks & Presentations"
       items:
