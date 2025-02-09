@@ -17,5 +17,5 @@ main:
     url: teaching_services/
     weight: 20
   - name: Miscellaneous
-      url: miscellaneous/
-      weight: 30
+    url: miscellaneous/
+    weight: 30
