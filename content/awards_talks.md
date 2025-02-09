@@ -11,6 +11,7 @@ sections:
   - block: markdown
     content:
       title: "🏆 Awards & Honors"
+      subtitle: ""
       text:
         - Finalist, INFORMS Pierskalla Best Paper Award, 2024
         - Dissertation Year Fellowship, UCLA, 2024
@@ -21,6 +22,9 @@ sections:
         - International Student Scholarship, UBC, 2015-2019
         - Trek Excellence Scholarship, UBC, 2015-2019
         - Reginald Palliser-Wilson Scholarship, UBC, 2017
+    design:
+      columns: "1"
+      
   - block: markdown
     content:
       title: "🎤 Talks"
@@ -28,7 +32,6 @@ sections:
       text: |
         ## Closer to Home: An Estimate-then-Optimize Approach for Improving Access to Healthcare Services
         *Formerly titled "Closer to Home: Partnering to Distribute Vaccinations under Spatially Heterogeneous Demand"*
-
         - INFORMS Annual Conference, Anaheim, CA, Oct 2021  
         - POMS Annual Conference, Online, Apr 2022  
         - CORS/INFORMS International Conference, Vancouver, BC, Jun 2022  
