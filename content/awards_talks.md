@@ -2,6 +2,11 @@
 title: Award & Talks
 date: 2025-10-24
 type: landing
+menu:
+  main:
+    weight: 12
+url: "/awards_talks/"
+
 
 design:
   spacing: '5rem'

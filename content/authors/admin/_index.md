@@ -16,12 +16,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor of Operations and Decisions Technologies
+role: Ph.D. candidate # Assistant Professor of Operations and Decisions Technologies
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Paul Merage School of Business at the University of California, Irvine
-    url: https://merage.uci.edu/index.html
+  - name: UCLA Anderson School of Management # Paul Merage School of Business at the University of California, Irvine
+    url: https://www.anderson.ucla.edu/ # https://merage.uci.edu/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
