@@ -10,7 +10,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: "🏆 Awards & Honors"
+      title: "Awards & Honors"
       subtitle: ""
       text:
         - Finalist, INFORMS Pierskalla Best Paper Award, 2024
@@ -24,10 +24,10 @@ sections:
         - Reginald Palliser-Wilson Scholarship, UBC, 2017
     design:
       columns: "1"
-      
+
   - block: markdown
     content:
-      title: "🎤 Talks"
+      title: "Talks"
       subtitle: ""
       text: |
         ## Closer to Home: An Estimate-then-Optimize Approach for Improving Access to Healthcare Services
