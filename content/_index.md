@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: persona.svg # stacked-peaks.svg
           filters:
-            brightness: 0.2
+            brightness: 0.05
           size: cover
           position: center
           parallax: false
