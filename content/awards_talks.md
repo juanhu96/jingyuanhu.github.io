@@ -9,9 +9,8 @@ type: landing
 sections:
   - block: markdown
     design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+      container_width: "100%"  # Expands the block to full width
+      max_width: "1200px"  # Expands the content area
     content:
       title: Awards & Honors
       subtitle: ""
@@ -27,9 +26,8 @@ sections:
         - Reginald Palliser-Wilson Scholarship, UBC, 2017
   - block: markdown
     design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+      container_width: "100%"  # Expands the block to full width
+      max_width: "1200px"  # Expands the content area
     content:
       title: "Talks"
       subtitle: ""
