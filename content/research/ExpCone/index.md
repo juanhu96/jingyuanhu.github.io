@@ -17,7 +17,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "In preparation"
+publication_short: "In Preparation"
 
 abstract: 
 
