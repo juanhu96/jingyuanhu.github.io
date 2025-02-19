@@ -29,8 +29,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jingyuan.hu.phd@anderson.ucla.edu'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/juanhu96
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jingyuan-h-789027b7/
   - icon: academicons/google-scholar
@@ -48,11 +46,6 @@ education:
     institution: University of California, Los Angeles
     date_start: 2019-09-01
     date_end: 2024-06-01
-    summary: |
-      Data-driven Analytics in Public Health: Interpretable and Equitable Approaches
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: BSc Mathematics
     institution: University of British Columbia
     date_start: 2015-09-01
