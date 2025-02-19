@@ -1,8 +1,8 @@
 ---
 title: "Nudging Adherence in Digital Mental Health: A Field Experiment"
 authors:
-- admin
 - Junyou Chen
+- admin
 - Yican Liu
 date: "2025-03-07T00:00:00Z"
 doi: ""
