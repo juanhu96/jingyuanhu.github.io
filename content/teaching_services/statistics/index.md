@@ -1,11 +1,11 @@
 ---
 title: Business Statistics
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+summary: 
+date: 2025-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - MGMT 7
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
