@@ -1,9 +1,9 @@
 ---
-title: "Nudging Adherence in Digital Mental Health: A Field Experiment"
+title: "AI for Mental Health: Trust, Engagement, and the Role of Information Design in Adoption"
 authors:
-- Junyou Chen
 - admin
 - Yican Liu
+- Junyou Chen
 date: "2025-03-07T00:00:00Z"
 doi: ""
 
